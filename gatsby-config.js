@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Sail Away`,
-    description: `Sailing tours`,
-    author: `@t_ony`,
+    title: `Landing Page Title`,
+    description: `Landing page description text.`,
+    author: `@cresencio`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -50,3 +50,4 @@ module.exports = {
     // `gatsby-plugin-offline`,
   ],
 }
+
